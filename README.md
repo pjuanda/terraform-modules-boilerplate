@@ -28,7 +28,7 @@ In the implementation, we do only need these 3 files
 
 To run the boilerplate, do execute:
 ```
-bash <(wget -qO- https://raw.githubusercontent.com/pjuanda/terraform-modules-boilerplate/master/installation.sh)
+wget -qO- https://raw.githubusercontent.com/pjuanda/terraform-modules-boilerplate/master/installation.sh | bash
 ```
 
 ## Limitations
