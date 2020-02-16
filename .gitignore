@@ -6,3 +6,7 @@ terraform.tfvars
 
 # ignore env file
 .env
+
+# ignore plan output file
+*.out
+*.out.json
